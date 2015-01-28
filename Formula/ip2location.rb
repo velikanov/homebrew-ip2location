@@ -7,7 +7,7 @@ class Ip2location < Formula
 
   resource "sample-database" do
     url "http://www.ip2location.com/downloads/sample.bin.db1.zip"
-    sha1 "8e1acd7f35a909b6d7bc7d482934050eb1167fa3"
+    sha1 "e21c6616de74f9e9289532d944af120f617bc352"
   end
 
   def install
